@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello World! I'm Rasheeda Afrin T N <br><br>🚀 Passionate Data Science | 🧩 Creative Problem Solver | 🚀 Lifelong Learner<br><br>🖌️ I love turning ideas into beautiful interfaces<br><br>⚡ Specializing in Data science, Power BI, HTML, CSS, JavaScript, Digital Marketing<br><br>🧠 Leveling up my skills in Canva, Excel and Figma<br><br>💬 Always ready to talk about Data science and cool UI effects<br><br>🌱 Building pixel-perfect, responsive, and delightful user experiences<br><br>💻 Forever a student of design, accessibility, and web performance<br><br>✨ Let's create something awesome together!
+👋 Hello ! I'm Rasheeda Afrin T N <br><br>🚀 Passionate Data Science | 🧩 Creative Problem Solver | 🚀 Lifelong Learner<br><br>🖌️ I love turning ideas into beautiful interfaces<br><br>⚡ Specializing in Data science, Power BI, HTML, CSS, JavaScript, Digital Marketing<br><br>🧠 Leveling up my skills in Canva, Excel and Figma<br><br>💬 Always ready to talk about Data science and cool UI effects<br><br>🌱 Building pixel-perfect, responsive, and delightful user experiences<br><br>💻 Forever a student of design, accessibility, and web performance<br><br>✨ Let's create something awesome together!
 
 
 ## 🌐 Socials:
